@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Montasir Ahamed</h1>
 <h3 align="center">Software Quality Assurance Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>![Montasir Ahamed](https://github.com/user-attachments/assets/0671e414-5283-441f-b1fb-f0a214ce42c1)
+<h3 align="left">Connect with me:</h3>
 
-<p align="left">
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/montasir-ahamed-393237311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/montasir-ahamed-393237311/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/montasir.ahamed.782026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/montasir.ahamed.782026/" height="30" width="40" /></a>
 </p>
