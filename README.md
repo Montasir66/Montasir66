@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/6d33bd5c-bdf7-4a03-a9b7-01b293439155)
 - :house: House# 03, Road# 07, Kadirabad Housing, Mohammadpur, Dhaka
 - :phone: +8801729005366
-- :email: montasirahamed@gmail.com
+- :email: montasirahamed.in@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montasir-ahamed-393237311/) 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/montasir.ahamed.782026)
   
